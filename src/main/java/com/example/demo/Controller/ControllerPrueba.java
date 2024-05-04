@@ -12,7 +12,7 @@ public class ControllerPrueba {
 
     @GetMapping
     public ResponseEntity<String> GetPruebas(){
-        return ResponseEntity.ok("Hola Maxim");
+        return ResponseEntity.ok("Estoy cansado jefe. Hola Gabriel");
 
     }
 }
